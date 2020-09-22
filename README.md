@@ -3,11 +3,11 @@
 
 # Содержание
 1. [Введение](#intro) <br/>
-   - [Назначение](#appointment) <br/>
-   - [Бизнес-требования](#business_requirements) <br/>
-     - [Исходные данные](#initial_data) <br/>
-     - [Возможности бизнеса](#business_opportunities) <br/>
-     - [Границы проекта](#project_boundary) <br/>
+   1.1 [Назначение](#appointment) <br/>
+   1.2 [Бизнес-требования](#business_requirements) <br/>
+       1.2.1 [Исходные данные](#initial_data) <br/>
+       1.2.2 [Возможности бизнеса](#business_opportunities) <br/>
+       1.2.3 [Границы проекта](#project_boundary) <br/>
 2. [Требования пользователя](#user_requirements) <br/>
 2.1 [Программные интерфейсы](#software_interfaces) <br/>
 2.2 [Интерфейс пользователя](#user_interface) <br/>
