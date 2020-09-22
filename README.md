@@ -8,27 +8,27 @@
 1.2.1 [Исходные данные](#initial_data) <br/>
 1.2.2 [Возможности бизнеса](#business_opportunities) <br/>
 1.2.3 [Границы проекта](#project_boundary) <br/>
-2. [Требования пользователя](#user_requirements)
-2.1 [Программные интерфейсы](#software_interfaces)
-2.2 [Интерфейс пользователя](#user_interface)
-2.3 [Характеристики пользователей](#user_specifications)
-2.3.1 [Классы пользователей](#user_classes)
-2.3.2 [Аудитория приложения](#application_audience)
-2.3.2.1 [Целевая аудитория](#target_audience)
-2.4 [Предположения и зависимости](#assumptions_and_dependencies)
-3. [Системные требования](#system_requirements)
-3.1 [Функциональные требования](#functional_requirements)
-3.1.1 [Основные функции](#main_functions)
-3.1.1.1 [Ввод данных](#input_data)
-3.1.1.2 [Отправка на сервер](#send_to_server)
-3.1.1.3 [Получение информации](#get_info)
-3.1.1.4 [Подтверждение окончания загрузки/выгрузки](#finish_work)
-3.1.2 [Ограничения и исключения](#restrictions_and_exclusions)
-3.2 [Нефункциональные требования](#non-functional_requirements)
-3.2.1 [Атрибуты качества](#quality_attributes)
-3.2.1.1 [Требования к удобству использования](#requirements_for_ease_of_use)
-3.2.1.2 [Требования к безопасности](#security_requirements)
-3.2.2 [Внешние интерфейсы](#external_interfaces)
+2. [Требования пользователя](#user_requirements) <br/>
+2.1 [Программные интерфейсы](#software_interfaces) <br/>
+2.2 [Интерфейс пользователя](#user_interface) <br/>
+2.3 [Характеристики пользователей](#user_specifications) <br/>
+2.3.1 [Классы пользователей](#user_classes) <br/>
+2.3.2 [Аудитория приложения](#application_audience) <br/>
+2.3.2.1 [Целевая аудитория](#target_audience) <br/>
+2.4 [Предположения и зависимости](#assumptions_and_dependencies) <br/>
+3. [Системные требования](#system_requirements) <br/>
+3.1 [Функциональные требования](#functional_requirements) <br/>
+3.1.1 [Основные функции](#main_functions) <br/>
+3.1.1.1 [Ввод данных](#input_data) <br/>
+3.1.1.2 [Отправка на сервер](#send_to_server) <br/>
+3.1.1.3 [Получение информации](#get_info) <br/>
+3.1.1.4 [Подтверждение окончания загрузки/выгрузки](#finish_work) <br/>
+3.1.2 [Ограничения и исключения](#restrictions_and_exclusions) <br/>
+3.2 [Нефункциональные требования](#non-functional_requirements) <br/>
+3.2.1 [Атрибуты качества](#quality_attributes) <br/>
+3.2.1.1 [Требования к удобству использования](#requirements_for_ease_of_use) <br/>
+3.2.1.2 [Требования к безопасности](#security_requirements) <br/>
+3.2.2 [Внешние интерфейсы](#external_interfaces) <br/>
 
 <a name="intro"></a>
 
