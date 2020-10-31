@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="405.0" y="0.0">client.model.remote.RemoteHandler</node>
+    <node x="983.0" y="461.0">client.model.SimpleTableModel</node>
+    <node x="775.0" y="566.0">globalmodels.ShipInformation</node>
+    <node x="1081.0" y="854.0">client.model.Ship</node>
+    <node x="496.0" y="590.0">server.models.Queue</node>
+    <node x="166.0" y="1596.0">client.model.remote.MockServer</node>
+    <node x="0.0" y="221.0">client.presentation.MainWindow</node>
+    <node x="979.0" y="1175.0">globalmodels.Cargo</node>
+    <node x="443.0" y="461.0">server.models.Informative</node>
+    <node x="0.0" y="1596.0">utils.Constants</node>
+    <node x="0.0" y="1428.0">jtp.JTPSocket</node>
+    <node x="210.0" y="1175.0">jtp.JTPMessage</node>
+    <node x="0.0" y="983.0">server.models.remote.RemoteJPTHandler</node>
+    <node x="344.0" y="854.0">jtp.JTPServer</node>
+    <node x="459.0" y="1428.0">jtp.JTPInputStream</node>
+    <node x="208.0" y="1428.0">jtp.JTPOutputStream</node>
+    <node x="99.0" y="0.0">utils.Window</node>
+    <node x="965.0" y="1428.0">jtp.JTPFunction</node>
+    <node x="194.0" y="233.0">server.presentation.MainWindow</node>
+    <node x="699.0" y="1428.0">utils.Event</node>
+    <node x="0.0" y="1304.0">server.models.storage.Storage</node>
+    <node x="405.0" y="173.0">client.model.remote.RemoteJTPHandler</node>
+    <node x="295.0" y="614.0">server.models.Mooring</node>
+    <node x="1237.0" y="1175.0">utils.Utils</node>
+    <node x="0.0" y="604.0">server.models.Port</node>
+    <node x="1217.0" y="1428.0">server.controller.MainController</node>
+    <node x="0.0" y="1175.0">server.models.storage.IStorage</node>
+    <node x="600.0" y="1175.0">jtp.JTPClient</node>
+    <node x="0.0" y="854.0">server.models.remote.IRemoteHandler</node>
+    <node x="723.0" y="854.0">client.controller.MainController</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="globalmodels.ShipInformation" target="server.models.Informative">
+      <point x="0.0" y="-121.5" />
+      <point x="856.5" y="536.0" />
+      <point x="552.375" y="536.0" />
+      <point x="46.875" y="27.5" />
+    </edge>
+    <edge source="server.models.Queue" target="server.models.Informative">
+      <point x="0.0" y="-97.5" />
+      <point x="625.5" y="546.0" />
+      <point x="521.125" y="546.0" />
+      <point x="15.625" y="27.5" />
+    </edge>
+    <edge source="client.model.remote.RemoteJTPHandler" target="client.model.remote.RemoteHandler">
+      <point x="0.0" y="-95.5" />
+      <point x="0.0" y="61.5" />
+    </edge>
+    <edge source="server.models.storage.Storage" target="server.models.storage.IStorage">
+      <point x="0.0" y="-39.5" />
+      <point x="0.0" y="39.5" />
+    </edge>
+    <edge source="server.models.remote.RemoteJPTHandler" target="server.models.remote.IRemoteHandler">
+      <point x="0.0" y="-73.5" />
+      <point x="0.0" y="39.5" />
+    </edge>
+    <edge source="server.models.Mooring" target="server.models.Informative">
+      <point x="0.0" y="-73.5" />
+      <point x="385.5" y="546.0" />
+      <point x="489.875" y="546.0" />
+      <point x="-15.625" y="27.5" />
+    </edge>
+    <edge source="client.presentation.MainWindow" target="utils.Window">
+      <point x="0.0" y="-97.5" />
+      <point x="87.0" y="196.0" />
+      <point x="140.5" y="196.0" />
+      <point x="-41.5" y="85.5" />
+    </edge>
+    <edge source="server.presentation.MainWindow" target="utils.Window">
+      <point x="0.0" y="-85.5" />
+      <point x="277.0" y="196.0" />
+      <point x="223.5" y="196.0" />
+      <point x="41.5" y="85.5" />
+    </edge>
+    <edge source="server.models.Port" target="server.models.Informative">
+      <point x="0.0" y="-83.5" />
+      <point x="137.5" y="536.0" />
+      <point x="458.625" y="536.0" />
+      <point x="-46.875" y="27.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="797.0" y="1252.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
